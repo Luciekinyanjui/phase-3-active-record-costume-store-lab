@@ -1,1 +1,4 @@
-# Create your HauntedHouse class here
+# Create class HauntedHouse
+class HauntedHouse
+
+end
